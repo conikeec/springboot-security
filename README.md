@@ -1,15 +1,15 @@
 Spring Boot Security
 ====================
 
-The application showing how to use Spring Boot with Spring Security for common needs, such as:
+The application showcases use of Spring Boot with key features/options of Spring Security enabled, such as:
 
 * Login form (implementing recommended Authorization and Authentication)
 * HTTPS Transport Security
 * CSRF protecton
 * Session Fixation Protection
-* Security Header Configuration
+* Security Header Configuration (ClickJacking)
 * XSS protection
-* Secrets Management
+* Secrets Management (TBD)
 * Domain Access Objects-based authentication
 * Basic "remember me" authentication
 * URL-based security
